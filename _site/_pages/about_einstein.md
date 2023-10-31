@@ -1,0 +1,3 @@
+Hello! I'm Ankit, and I'm passionate about the world of materials science and systems engineering. Currently, I am pursuing my Master of Science degree in Material Science at IIT Madras (In collaboration with HRI Prayagraj) with a focus on Computational Material Science.
+
+My journey in this field has been incredible, and I've had the privilege of working in the fields of Density Functional Theory (DFT) and Material Informatics. During my academic journey, I've had the opportunity to work with startups and projects that have honed my skills in engineering and material science. These experiences have provided me with a unique perspective on the practical applications of my work.
